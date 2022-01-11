@@ -13,3 +13,4 @@
 | `Basic Library App` | [Basic Library App](https://nizsimsek.github.io/the-odin-project-learning/basic-library/) |
 | `Basic Weather App` | [Weather App](https://nizsimsek.github.io/the-odin-project-learning/weather-app/) |
 | `Landing Page` | [Landing Page App](https://nizsimsek.github.io/the-odin-project-learning/landing-page/) |
+
